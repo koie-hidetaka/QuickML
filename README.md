@@ -1,6 +1,6 @@
 # This is test
 
-## aaa
+## Aaa
 
 
 xxxxxxxxxxxxxxxxxxxxxxxxx
@@ -629,4 +629,4 @@ xxxxxxxxxxxxxxxxxxxxxxxxx
 
 ## bbb
 
-[here](#aaa)
+[here](#Aaa)
