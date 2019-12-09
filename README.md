@@ -2,8 +2,8 @@
 
 
 # Link
-- [README](#README)
-- [使い方](#使い方)
+- [README](README.md#README)
+- [使い方](README.md#使い方)
 
 ## README
 
